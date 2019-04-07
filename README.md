@@ -6,11 +6,19 @@
 
 1. Bilinear interpolation
    1. Bi_Int.c
-    '''This is the original code with the Bilinear interpolation algorithm'''
+      ``` 
+      This is the original code with the Bilinear interpolation algorithm 
+      ```
    2. Bi_Int_Opt1.c
-    '''Modified Bilinear interpolation algorithm with OpenMP threads'''
+      ```
+      Modified Bilinear interpolation algorithm with OpenMP threads
+      ```
    3. pic_1.jpg
-    '''Picture for testing Bilinear interpolation algorithm'''
+      ```
+      Picture for testing Bilinear interpolation algorithm
+      ```
 2. Gaussian Elimination
 3. README.md
-  '''This file'''
+  ```
+  This file
+  ```
