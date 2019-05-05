@@ -1,4 +1,4 @@
-# COMP333Proj1
+# Optimization in OpenMP and Java Streams - COMP333
 
 ## This project is created to find the optimization of code for Bilinear interpolation and Gaussian elimination using various methods.
 
